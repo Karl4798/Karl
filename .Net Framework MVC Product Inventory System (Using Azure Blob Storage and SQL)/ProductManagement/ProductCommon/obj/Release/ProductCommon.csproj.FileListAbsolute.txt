@@ -1,0 +1,66 @@
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll.config
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\EntityFramework.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\EntityFramework.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Release\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll.config
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\EntityFramework.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\EntityFramework.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Release\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Release\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.Migrations.update1.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.Migrations.update11.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.Migrations.update12.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.Migrations.update13.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.GenerateResource.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Release\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\PagedList.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\PagedList.EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\PagedList.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\PagedList.EntityFramework.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Release\PagedList.EntityFramework.xml

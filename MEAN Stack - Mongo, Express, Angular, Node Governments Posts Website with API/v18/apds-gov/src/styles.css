@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+@import "../node_modules/@angular/material/prebuilt-themes/indigo-pink.css";
+html, body { height: 100%; background-color: seashell;}
+body {margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif;}
+
+.mat-button.mat-accent, .mat-icon-button.mat-accent, .mat-stroked-button.mat-accent {
+  color: #ff5200 !important;
+}
+
+.mat-form-field {
+  font-size: inherit;
+  font-weight: 400;
+  line-height: 1.125;
+  font-family: Roboto,"Helvetica Neue",sans-serif;
+  width: 22rem;
+}
+
+.mat-snack-bar-container {
+  margin-bottom: 5rem !important;
+  max-width: 100% !important;
+}

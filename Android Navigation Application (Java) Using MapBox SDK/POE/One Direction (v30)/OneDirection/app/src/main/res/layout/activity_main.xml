@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true">
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        mapbox:mapbox_cameraZoom="15">
+
+    </com.mapbox.mapboxsdk.maps.MapView>
+
+    <!-- Coordinator Layout used to position the SnackBar -->
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:id="@+id/coordinatorLayout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/transparent"
+        mapbox:layout_constraintEnd_toEndOf="parent"
+        mapbox:layout_constraintStart_toStartOf="parent"
+        mapbox:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="30dp"
+        android:alpha="0.85"
+        android:background="@drawable/roundbutton_disabled"
+        android:enabled="false"
+        android:text="@string/start_navigationBtn"
+        android:textColor="@color/mapboxWhite"
+        mapbox:layout_constraintBottom_toBottomOf="parent"
+        mapbox:layout_constraintEnd_toEndOf="parent"
+        mapbox:layout_constraintStart_toStartOf="parent" />
+
+    <ProgressBar
+        android:id="@+id/progressBar4"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.85"
+        android:indeterminateTint="@color/pink"
+        android:progressTint="@color/pink"
+        android:visibility="invisible"
+        mapbox:layout_constraintBottom_toBottomOf="@+id/startButton"
+        mapbox:layout_constraintEnd_toEndOf="@+id/mapView"
+        mapbox:layout_constraintStart_toStartOf="parent"
+        mapbox:layout_constraintTop_toTopOf="@+id/mapView" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionSearch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="91dp"
+        android:layout_marginBottom="12dp"
+        android:alpha="0.85"
+        android:clickable="true"
+        android:focusable="true"
+        app:srcCompat="@drawable/ic_search_24dp"
+        app:fab_addButtonColorPressed="@color/colorPrimaryVeryVeryDark"
+        mapbox:backgroundTint="@color/colorPrimaryVeryDark"
+        mapbox:layout_constraintBottom_toTopOf="@+id/startButton"
+        mapbox:layout_constraintEnd_toEndOf="parent" />
+
+    <EditText
+        android:id="@+id/edPhoneNumber"
+        android:layout_width="0dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:alpha="0.85"
+        android:autofillHints=""
+        android:background="@drawable/edit_text_rounded"
+        android:ems="10"
+        android:fontFamily="sans-serif-medium"
+        android:hint="@string/phone_number"
+        android:inputType="phone"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="invisible"
+        mapbox:layout_constraintBottom_toBottomOf="@+id/mapView"
+        mapbox:layout_constraintEnd_toStartOf="@+id/floatingActionExit"
+        mapbox:layout_constraintStart_toStartOf="@+id/mapView"
+        mapbox:layout_constraintTop_toTopOf="@+id/mapView"
+        tools:targetApi="o" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionExit"
+        android:layout_width="56dp"
+        android:layout_height="56dp"
+        android:layout_marginEnd="23dp"
+        android:alpha="0.85"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/ic_close_1"
+        mapbox:backgroundTint="@color/colorPrimaryVeryDark"
+        mapbox:layout_constraintBottom_toBottomOf="@+id/edPhoneNumber"
+        mapbox:layout_constraintEnd_toEndOf="parent"
+        mapbox:layout_constraintTop_toTopOf="@+id/edPhoneNumber"
+        mapbox:layout_constraintVertical_bias="0.52" />
+
+    <com.getbase.floatingactionbutton.FloatingActionsMenu
+        android:id="@+id/floatingActionsMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="12dp"
+        android:alpha="0.85"
+        android:background="@android:color/transparent"
+        app:fab_addButtonColorNormal="@color/colorPrimaryVeryDark"
+        app:fab_addButtonColorPressed="@color/colorPrimaryVeryVeryDark"
+        app:fab_addButtonPlusIconColor="@color/white"
+        app:fab_labelStyle="@style/custom_fab"
+        app:layout_constraintEnd_toEndOf="parent"
+        mapbox:layout_constraintBottom_toTopOf="@+id/startButton">
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_baseline_info"
+            app:fab_size="mini"
+            app:fab_title="About" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_settings"
+            app:fab_size="mini"
+            app:fab_title="Preferences" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_history"
+            app:fab_size="mini"
+            app:fab_title="Route History" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_send"
+            app:fab_size="mini"
+            app:fab_title="Share Current Location" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_autorenew"
+            app:fab_size="mini"
+            app:fab_title="Refresh Map" />
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/fab_action1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_colorNormal="@color/white"
+            app:fab_colorPressed="@color/white_pressed"
+            app:fab_icon="@drawable/ic_exit_app"
+            app:fab_size="mini"
+            app:fab_title="Logout" />
+
+    </com.getbase.floatingactionbutton.FloatingActionsMenu>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

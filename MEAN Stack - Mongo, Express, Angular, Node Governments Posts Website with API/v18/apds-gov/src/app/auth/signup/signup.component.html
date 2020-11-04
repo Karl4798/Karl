@@ -1,0 +1,64 @@
+<mat-card style="margin-top: 5%;">
+
+  <div style="padding: 2%;">
+    <h1>Register</h1>
+  </div>
+
+  <form (submit)="onSignup(signupForm)" class = "login" name = "login" #signupForm="ngForm">
+
+      <mat-form-field>
+        <input
+          matInput
+          type ="email"
+          ngModel
+          name ="enteredEmail"
+          placeholder="Email Address"
+          required
+          #enteredEmail ="ngModel"
+          pattern ="^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$"/>
+        <mat-error *ngIf="enteredEmail.invalid">{{enteredEmailError}}</mat-error>
+      </mat-form-field>
+
+      <br>
+
+      <mat-form-field>
+        <input
+          matInput
+          type ="text"
+          ngModel
+          name="enteredPhoneNumber"
+          placeholder="Phone Number"
+          required
+          minlength="4"
+          pattern ="^[0-9]{10,10}$"
+          #enteredPhoneNumber ="ngModel"
+          sanitize/>
+        <mat-error *ngIf="enteredPhoneNumber.invalid">{{enteredPhoneNumberError}}</mat-error>
+      </mat-form-field >
+
+      <br>
+
+      <mat-form-field>
+        <input
+          matInput
+          type ="password"
+          pattern ="^(?=.*\d)(?=.*[a-z])(?=.*[A-Z]).{6,20}$"
+          ngModel
+          name ="enteredPassword"
+          placeholder="Password"
+          required
+          #enteredPassword ="ngModel"/>
+        <mat-error *ngIf="enteredPassword.invalid">{{enteredPasswordError}}</mat-error>
+      </mat-form-field>
+
+      <br>
+      <br>
+
+      <button mat-raised-button type = "submit" >Sign Up</button>
+
+      <br>
+      <br>
+
+  </form>
+
+</mat-card>

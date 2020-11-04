@@ -1,0 +1,4 @@
+SELECT S.STUDENTNAME, M.MOD_NAME
+FROM STUDENT S
+INNER JOIN RESULT R ON r.studentid = s.studentid
+INNER JOIN MODULE M ON r.mod_id = m.mod_id;

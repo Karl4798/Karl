@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ProductsContext-Web.config Connection String" description="ProductsContext Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:srv17667327.database.windows.net,1433;Initial Catalog=ProductDB;Persist Security Info=False;User ID=adm17667327;Password=KarlDurban4;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Karl\\Desktop\\VC\\CLDV\ B\\Task\ 2\ Latest\\ProductManagement\\ProductWeb\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ProductsContext']/@connectionString" />
+  </parameter>
+</parameters>

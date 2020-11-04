@@ -1,0 +1,35 @@
+--PL/SQL CODING
+
+-- Proced lang ...
+-- deals with code in blocks
+-- procedure language SQL
+-- server side ops
+-- used for decision making
+-- there are 2 types of blocks
+-- name block / anonymous blocks
+-- each block has 3 elements to it
+-- 1. declaration portion
+-- 2. execution portion
+-- 3. exception handling
+-- to assign values to variables :=
+-- set the serveroutput to on
+-- Block 1
+
+SET SERVEROUTPUT ON;
+
+DECLARE 
+a integer := 100;
+b integer := 150;
+c integer;
+d integer;
+
+BEGIN
+
+c := a + b;
+d := a * b;
+
+-- output using dbms put line
+dbms_output.put_line('a and b added is: ' || c);
+dbms_output.put_line('a and b multiplied is: ' || d);
+
+END;

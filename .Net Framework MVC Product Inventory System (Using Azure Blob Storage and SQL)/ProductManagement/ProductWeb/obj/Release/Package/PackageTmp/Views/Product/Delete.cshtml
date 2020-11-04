@@ -1,0 +1,68 @@
+﻿@model ProductCommon.Product
+
+@{
+    ViewBag.Title = "Delete";
+}
+<br>
+<br>
+
+<h2>Delete</h2>
+
+<br>
+
+<h3>Are you sure you want to delete this product?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            R @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            Product Image
+        </dt>
+
+        <dd>
+            <img src="@Html.Raw(Model.ImageURL)" style="height: 135px; width: 170px" />
+        </dd>
+
+    </dl>
+
+    <style>
+        dt {
+            margin-bottom: 20px;
+        }
+    </style>
+
+    <br><br><br><br>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" style="background: #fc2b2b; border-color: #fc2b2b;" />
+            <br> <br>
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

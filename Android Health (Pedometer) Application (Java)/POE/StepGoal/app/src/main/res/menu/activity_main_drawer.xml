@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_step"
+            android:title="Step Counter" />
+        <item
+            android:id="@+id/nav_goals"
+            android:icon="@drawable/ic_menu_goal"
+            android:title="Goals" />
+        <item
+            android:id="@+id/nav_log"
+            android:icon="@drawable/ic_menu_log"
+            android:title="Fitness Log" />
+        <item
+            android:id="@+id/nav_picture"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Pictures" />
+        <item
+            android:id="@+id/nav_bmi"
+            android:icon="@drawable/ic_menu_bmi"
+            android:title="Calculate BMI" />
+        <item
+            android:id="@+id/nav_weight"
+            android:icon="@drawable/ic_menu_weight"
+            android:title="Weight Monitoring" />
+        <item
+            android:id="@+id/nav_personal"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Personal Information" />
+    </group>
+
+    <item android:title="Account">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Log Out" />
+            <item
+                android:id="@+id/nav_clearCount"
+                android:icon="@drawable/ic_menu_trash"
+                android:title="Erase Step Count" />
+        </menu>
+    </item>
+
+</menu>

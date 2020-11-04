@@ -1,0 +1,15 @@
+CREATE OR REPLACE TRIGGER Supplier_Entry
+AFTER INSERT OR UPDATE ON SUPPLIER
+FOR EACH ROW
+
+BEGIN
+
+IF (:NEW.RATING <= 0) THEN
+    RAISE_APPLICATION_ERROR(-20001, 'Supplier Rating Cannot Be Equal To Or Less Than Zero (0)!');
+END IF;
+
+END;
+
+/
+
+INSERT INTO Supplier VALUES ('900', 'Camping Equipment', '0215013985', 0);

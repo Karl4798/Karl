@@ -1,0 +1,23 @@
+CREATE OR REPLACE FUNCTION Supplier_Rating
+(Rat IN VARCHAR)
+RETURN VARCHAR AS
+
+Supplier_Name VARCHAR(25);
+
+BEGIN
+
+SELECT SUPPLIERNAME INTO Supplier_Name 
+FROM SUPPLIER
+WHERE RATING = Rat;
+
+RETURN Supplier_Name;
+
+EXCEPTION WHEN NO_DATA_FOUND THEN
+    RAISE_APPLICATION_ERROR(-20001, 'No Suppliers Found With Rating Input.');
+    
+END;
+
+/
+
+SELECT Supplier_Rating(7)
+FROM DUAL;

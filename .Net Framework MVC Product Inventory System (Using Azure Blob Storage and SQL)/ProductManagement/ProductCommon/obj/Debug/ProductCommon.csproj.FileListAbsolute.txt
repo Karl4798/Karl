@@ -1,0 +1,198 @@
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\source\repos\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\New folder\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update1.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.GenerateResource.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update11.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update12.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2 Latest\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update13.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\PagedList.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update1.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update11.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update12.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update13.resources
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.GenerateResource.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\Task 2\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update1.resources
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update11.resources
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update12.resources
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update13.resources
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.GenerateResource.cache
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+E:\1\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update1.resources
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update11.resources
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update12.resources
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.Migrations.update13.resources
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.GenerateResource.cache
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 Task 2 Karl Dicks 17667327\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\VC\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+C:\Users\Karl\Desktop\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+G:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll.config
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.dll
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\ProductCommon.pdb
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.xml
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\EntityFramework.SqlServer.xml
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.xml
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.pdb
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\bin\Debug\PagedList.EntityFramework.xml
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csprojAssemblyReference.cache
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CoreCompileInputs.cache
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.csproj.CopyComplete
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.dll
+I:\VC\Backup\BCAD\Year 2\Semester 2\CLDV B\CLDV6212 POE Karl Dicks 17667327\Revision\Task 2\Improved\Part B - Karl Dicks 17667327\ProductManagement\ProductCommon\obj\Debug\ProductCommon.pdb

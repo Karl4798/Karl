@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d3d6db"
+    tools:context=".Goals"
+    android:focusable="true" android:focusableInTouchMode="true"
+    tools:ignore="LabelFor">
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/roundbutton"
+        android:backgroundTint="#5c8dd6"
+        android:fontFamily="sans-serif"
+        android:text="@string/save1"
+        android:textColor="#FFFFFFFF"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <EditText
+        android:id="@+id/targetWeightEd"
+        android:layout_width="130dp"
+        android:layout_height="43dp"
+        android:layout_marginBottom="150dp"
+        android:autofillHints=""
+        android:ems="10"
+        android:fontFamily="sans-serif"
+        android:inputType="number"
+        android:digits="0123456789"
+        app:layout_constraintBottom_toTopOf="@+id/switch2"
+        app:layout_constraintEnd_toEndOf="@+id/stepCountSpinner"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/stepCountSpinner"
+        tools:targetApi="o"
+        android:focusable="true" android:focusableInTouchMode="true"/>
+
+    <Spinner
+        android:id="@+id/stepCountSpinner"
+        android:layout_width="130dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/targetWeightEd"
+        app:layout_constraintEnd_toEndOf="@+id/tvHeading4"
+        app:layout_constraintHorizontal_bias="0.86"
+        app:layout_constraintStart_toStartOf="@+id/tvHeading4"
+        app:layout_constraintTop_toBottomOf="@+id/tvHeading4"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Switch
+        android:id="@+id/switch2"
+        android:layout_width="143dp"
+        android:layout_height="21dp"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/units"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toTopOf="@+id/saveBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="159dp"
+        android:layout_height="43dp"
+        android:layout_marginBottom="150dp"
+        android:fontFamily="sans-serif"
+        android:paddingTop="10dp"
+        android:text="@string/target_weight"
+        android:textAlignment="viewEnd"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/switch2"
+        app:layout_constraintEnd_toEndOf="@+id/textView10"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView10" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="159dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="75dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif"
+        android:paddingTop="10dp"
+        android:text="@string/daily_step_count"
+        android:textAlignment="viewEnd"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/textView9"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="@+id/tvHeading4"
+        app:layout_constraintTop_toBottomOf="@+id/tvHeading4"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/tvHeading4"
+        android:layout_width="374dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/goals"
+        android:textAlignment="center"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,20 @@
+<h1>Government Posts</h1>
+
+<mat-accordion *ngIf="posts.length > 0">
+  <mat-expansion-panel *ngFor="let post of posts">
+    <mat-expansion-panel-header style="color: #00263b; font-size: x-large; text-decoration: solid;">
+      Department: {{post.Department}}
+    </mat-expansion-panel-header>
+
+        <p>Post Name: {{post.Name}} </p>
+        <p style="white-space:pre-wrap;">Post Details:<br>{{post.PlacedPost}} </p>
+
+      <mat-action-row *ngIf="userisAuthenticated">
+        <button mat-button color="link" (click)="onDownload(post.id)">Download</button>
+        <button mat-button color="primary" (click)="onEdit(post.id)">Edit</button>
+        <button mat-button color="warn" (click)="onDelete(post.id)">Delete</button>
+      </mat-action-row>
+
+  </mat-expansion-panel>
+</mat-accordion>
+<p *ngIf="posts.length <= 0" style="text-align: center;">No posts created yet</p>

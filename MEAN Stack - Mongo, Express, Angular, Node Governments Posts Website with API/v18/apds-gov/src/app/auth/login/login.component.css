@@ -1,0 +1,25 @@
+mat-form-field {
+  padding: 1rem;
+}
+
+button {
+  background-color: #215573;
+  color: white;
+  font-size: large;
+  outline: 0;
+  box-shadow: none!important;
+  min-width: 16rem;
+  max-width: 16rem;
+  border-radius: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.button-title{
+  padding: 5px 50px 5px 50px;
+  outline: 0;
+  box-shadow: none!important;
+}
+
+button:hover {
+  color: red;
+}

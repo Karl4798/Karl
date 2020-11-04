@@ -1,0 +1,20 @@
+INSERT INTO PRODUCT VALUES ('X500', 'Android 8 inch 3g WiFi', 1999.00, 10);
+INSERT INTO PRODUCT VALUES ('X501', 'Android 10 inch 3g', 2499.00, 5);
+INSERT INTO PRODUCT VALUES ('X502', 'Android 7 inch Tab', 2799.00, 8);
+INSERT INTO PRODUCT VALUES ('X503', 'Android 10 inch Tab', 1599.00, 3);
+
+/
+
+INSERT INTO CUSTOMER VALUES ('10010', 'Wireless Devices', '10 Main Rd', 'wdev@gmail.com');
+INSERT INTO CUSTOMER VALUES ('10011', 'Mobile Extreme', '12 Water Way', 'moex@gmail.com');
+INSERT INTO CUSTOMER VALUES ('10012', 'Android Haven', '18 Main Rd', 'ahaven@gmail.com');
+
+/
+
+INSERT INTO SALES VALUES ('555', 'X500', '10010', '15 May 2016', 5);
+INSERT INTO SALES VALUES ('556', 'X503', '10010', '17 May 2016', 3);
+INSERT INTO SALES VALUES ('557', 'X500', '10012', '17 May 2016', 1);
+INSERT INTO SALES VALUES ('558', 'X501', '10012', '18 May 2016', 1);
+INSERT INTO SALES VALUES ('559', 'X501', '10010', '20 May 2016', 1);
+
+/

@@ -1,0 +1,79 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<ProductCommon.Product>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<br>
+<h2>Products</h2>
+<br>
+
+@using (Html.BeginForm("Index", "Product", FormMethod.Get))
+{
+<p>
+    Search Product By Name:<br>
+    @Html.TextBox("SearchString", null, new { style="height:30px; padding-bottom:5px; border-radius:5px" })
+    <input type="submit" value="Search" class="btn btn-default" style="text-align: center;
+        font-size: 16px; height: 30px; width: 70px; padding: 0px; margin-left: 10px" />
+    <button onclick="location.href='@Url.Action("Create", "Product")';return false;" class="btn btn-default"; style="height: 30px; width: 155px; padding: 0px; background: #fc2b2b; border-color: #fc2b2b; margin-left: 20px">Create New Product</button>
+</p>
+}
+
+<table class="table table-striped">
+    <tr>
+        <th style="width: 90px";>
+            @Html.DisplayNameFor(model => model.First().ProductId)
+        </th>
+        <th style="width: 215px">
+            @Html.DisplayNameFor(model => model.First().Name)
+        </th>
+        <th style="width: 100px">
+            @Html.DisplayNameFor(model => model.First().Price)
+        </th>
+        <th style="width: 100px">
+            @Html.DisplayNameFor(model => model.First().LastUpdated)
+        </th>
+        <th style="width: 300px;">
+            @Html.DisplayNameFor(model => model.First().Description)
+        </th>
+        <th>
+            Product Image
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td style="padding-left: 40px;">
+            @Html.DisplayFor(modelItem => item.ProductId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            R @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastUpdated)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            <img src="@Html.Raw(item.ImageURL)" style="width: 125px;" height="125" />
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ProductId }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ProductId }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ProductId })
+        </td>
+    </tr>
+    }
+
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page, searchString = Request.QueryString["searchString"] }),
+    new PagedListRenderOptions() { Display = PagedListDisplayMode.IfNeeded, DisplayPageCountAndCurrentLocation = true }
+    )

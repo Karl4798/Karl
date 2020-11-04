@@ -1,0 +1,3 @@
+CREATE SEQUENCE result_id
+    START WITH 106
+    INCREMENT BY 1;

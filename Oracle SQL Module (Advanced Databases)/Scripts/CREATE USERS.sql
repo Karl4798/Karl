@@ -1,0 +1,18 @@
+--CODE TO CREATE A NEW USER ACCOUNT--
+
+--CREATE USER nameOfUser IDENTIFIED BY password--
+--3 TYPES OF IDENTIFICATION password/global/external--
+--(THIS IS OPTIONAL-->>) DEFAULT TABLESPACES tablespaceName TEMPORARY TABLESPACE temp--
+--QUOTE - size / unlimited ON TABLESPACE tablespaceName--
+--PROFILE--userProfile (<<-- also is optional)--
+--PASSWORD EXPIRY SETTING--
+--ACCOUNT - locking / unlocking--
+
+
+
+--SCRIPT TO CREATE A NEW USER--
+CREATE USER VENOM IDENTIFIED BY marvel --CAPS/ NO CAPS MATTERS--
+DEFAULT TABLESPACE users
+TEMPORARY TABLESPACE temp
+QUOTA 25M ON users
+ACCOUNT UNLOCK;

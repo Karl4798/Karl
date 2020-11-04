@@ -1,0 +1,19 @@
+SET SERVEROUTPUT ON;
+
+DECLARE
+    PRODID VARCHAR(25);
+    STOCK INT;
+        
+BEGIN
+
+SELECT PRODUCTID, STOCKLEVEL INTO PRODID, STOCK
+FROM PRODUCT
+WHERE PRODUCTID = 'X503';
+
+IF STOCK >= 10 THEN
+    DBMS_OUTPUT.PUT_LINE(PRODID || ' stock levels are stable.');
+ELSIF STOCK < 10 THEN
+    DBMS_OUTPUT.PUT_LINE(PRODID || ' stock levels are not stable. Stock levels need to be increased');
+END IF;
+
+END;

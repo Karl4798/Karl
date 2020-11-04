@@ -1,0 +1,27 @@
+<mat-card style="margin-top: 5%;">
+
+  <h2>{{heading}}</h2>
+
+  <form (submit)="onAddDepartment(postForm)" #postForm="ngForm" >
+
+    <mat-form-field>
+      <input
+        required
+        matInput
+        type="text"
+        name="enteredName"
+        [ngModel]="department?.Name"
+        placeholder="Name"
+        minlength="2"
+        #enteredName="ngModel"
+        ng-bind-html/>
+      <mat-error *ngIf="enteredName.invalid"><br>{{enteredNameError}}<br></mat-error>
+    </mat-form-field>
+
+    <br>
+
+    <button mat-raised-button type="submit">Save Department</button>
+
+  </form>
+
+  </mat-card>

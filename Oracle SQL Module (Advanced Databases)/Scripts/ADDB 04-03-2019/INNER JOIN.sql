@@ -1,0 +1,3 @@
+SELECT C.*
+FROM CUSTOMER C
+INNER JOIN ORDERS O ON c.cus_id = o.cus_id;

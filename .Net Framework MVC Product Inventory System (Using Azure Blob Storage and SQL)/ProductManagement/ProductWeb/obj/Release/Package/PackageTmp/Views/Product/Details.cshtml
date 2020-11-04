@@ -1,0 +1,62 @@
+﻿@model ProductCommon.Product
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<br>
+<br>
+
+<h2>Product Details</h2>
+<br>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+
+        <dd>
+            R @Html.DisplayFor(model => model.Price)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            Image
+        </dt>
+
+        <dd>
+            <img src="@Html.Raw(Model.ImageURL)" style="width: 390px; height: 390px" />
+        </dd>
+
+    </dl>
+    <style>
+        dt {
+            margin-bottom: 20px;
+        }
+    </style>
+</div>
+
+<br><br><br><br>
+
+<p>
+    @Html.ActionLink("Back to List", "Index") |
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProductId })
+    
+</p>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:layout_gravity="center"
+    android:background="@drawable/modal_layout_light"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:id="@+id/modal_preferences">
+
+    <Spinner
+        android:id="@+id/spMapStyle"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/spinner_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/swUnitsPrefs" />
+
+    <Button
+        android:id="@+id/deleteHistoryBtn"
+        android:layout_width="140dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="16dp"
+        android:alpha="0.85"
+        android:background="@drawable/roundedbutton"
+        android:text="@string/delete_history"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="@+id/spMapStyle"
+        app:layout_constraintTop_toBottomOf="@+id/spMapStyle" />
+
+    <Button
+        android:id="@+id/deleteAccountBtn"
+        android:layout_width="140dp"
+        android:layout_height="30dp"
+        android:alpha="0.85"
+        android:background="@drawable/roundedbutton"
+        android:text="@string/delete_account"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/deleteHistoryBtn"
+        app:layout_constraintStart_toStartOf="@+id/spMapStyle"
+        app:layout_constraintTop_toTopOf="@+id/deleteHistoryBtn" />
+
+    <Switch
+        android:id="@+id/swUnitsPrefs"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="25dp"
+        android:text="@string/metric_imperial_unitsEd"
+        android:textSize="18sp"
+        android:thumbTint="@android:color/black"
+        android:trackTint="@color/half_black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spModeOfTransport" />
+
+    <Button
+        android:id="@+id/saveBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:alpha="0.85"
+        android:background="@drawable/roundbutton"
+        android:text="@string/savebutton"
+        android:textColor="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/deleteHistoryBtn" />
+
+    <EditText
+        android:id="@+id/fullNameEd"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:autofillHints=""
+        android:backgroundTint="@color/colorPrimaryDark"
+        android:ems="10"
+        android:hint="@string/full_name_1"
+        android:inputType="textPersonName"
+        android:textCursorDrawable="@drawable/color_cursor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/closeTxt"
+        tools:targetApi="o" />
+
+    <TextView
+        android:id="@+id/closeTxt"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center"
+        android:text="@string/x_btn"
+        android:textColor="@color/pink"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/spModeOfTransport"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="24dp"
+        android:background="@drawable/spinner_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/fullNameEd" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:text="@string/full_name_1"
+        app:layout_constraintBottom_toTopOf="@+id/fullNameEd"
+        app:layout_constraintStart_toStartOf="@+id/fullNameEd" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/mode_of_transport_1"
+        app:layout_constraintBottom_toTopOf="@+id/spModeOfTransport"
+        app:layout_constraintStart_toStartOf="@+id/spModeOfTransport" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/map_theme"
+        app:layout_constraintBottom_toTopOf="@+id/spMapStyle"
+        app:layout_constraintStart_toStartOf="@+id/spMapStyle" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/preferred_units_of_measure_1"
+        app:layout_constraintBottom_toTopOf="@+id/swUnitsPrefs"
+        app:layout_constraintStart_toStartOf="@+id/swUnitsPrefs" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

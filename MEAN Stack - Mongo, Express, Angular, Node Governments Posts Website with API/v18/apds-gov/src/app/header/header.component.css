@@ -1,0 +1,79 @@
+mat-toolbar {
+  background-color: #00263b;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+h3 {
+  text-decoration: none;
+  text-align: justify;
+  padding-top: 1%;
+  color: white;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+
+.spacer {
+  flex: 1 1 auto;
+}
+
+button {
+  background-color: #215573;
+  color: white;
+  font-size: large;
+  outline: 0;
+  box-shadow: none!important;
+  min-width: 13rem;
+  max-width: 13rem;
+}
+
+.button-title{
+  padding: 5px 10px 5px 10px;
+  outline: 0;
+  box-shadow: none!important;
+}
+
+button:hover {
+  color: red;
+}
+
+.nav-link {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  text-align: center;
+}
+
+.nav-link:hover {
+  color: red;
+}
+
+.dropdown-item {
+  color: white !important;
+}
+
+.dropdown-item:hover {
+  
+  color: black !important;
+}
+
+.dropdown-item:active {
+  
+  color: white !important;
+  background-color: #00263b !important;
+}
+
+.dropdown {
+  border-radius: 5px;
+  background-color: #215573;
+  line-height: 36px;
+  min-width: 13rem;
+  max-width: 13rem;
+}

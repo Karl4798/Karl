@@ -1,0 +1,30 @@
+SET SERVEROUTPUT ON;
+
+DECLARE
+    OUTCOME VARCHAR(25);
+    ID VARCHAR(25);
+    RESULT INT;
+
+BEGIN
+
+SELECT S.STUDID, R.RESULTS INTO ID, RESULT
+FROM STUDENT S
+INNER JOIN RESULTS R ON s.studid = r.studid
+WHERE s.studid = '1011' AND r.resultid = '101';
+
+IF RESULT >= 75 THEN
+    OUTCOME := 'distinction';
+END IF;
+IF RESULT >= 50 AND RESULT < 75 THEN
+    OUTCOME := 'pass';
+END IF;
+IF RESULT < 50 THEN
+    OUTCOME := 'fail';
+END IF;
+
+
+DBMS_OUTPUT.PUT_LINE('Student ID: ' || ID);
+DBMS_OUTPUT.PUT_LINE('Result: ' || RESULT || '%');
+DBMS_OUTPUT.PUT_LINE('Outcome: is a ' || OUTCOME);
+
+END;

@@ -1,0 +1,24 @@
+<mat-card style="margin-top: 5%;">
+
+<div>
+
+  <h1>Two Factor Authentication</h1>
+
+  <br>
+
+  <div id="recaptcha">
+    <div class="page" id="recaptcha-container"></div>
+    <button class="btn" mat-raised-button type = "submit" (click)="sendLoginCode()">SMS Login Code</button>
+  </div>
+
+  <div *ngIf="windowRef.confirmationResult" id="submitVerCode">
+    <label for="code">Enter your Verification Code Here</label>
+    <br>
+    <input type="text" class="input" name="code" [(ngModel)]="verificationCode">
+    <br>
+    <button class="btn1" mat-raised-button type = "submit" (click)="verifyLoginCode()">Verify</button>
+  </div>
+
+</div>
+
+</mat-card>

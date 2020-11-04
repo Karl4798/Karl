@@ -1,0 +1,52 @@
+.page {
+  width: 380px; height: 80px; margin: auto;
+  padding: 40px;
+}
+
+.input {
+  margin-top: 1.4rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.btn {
+  margin-top: 6rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+.btn1 {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  border-radius: 0.5rem;
+}
+
+button {
+  background-color: #215573;
+  color: white;
+  font-size: large;
+  outline: 0;
+  box-shadow: none!important;
+  min-width: 16rem;
+  max-width: 16rem;
+  margin-bottom: 1rem;
+}
+
+.button-title{
+  padding: 5px 50px 5px 50px;
+  outline: 0;
+  box-shadow: none!important;
+}
+
+button:hover {
+  color: red;
+}
+
+label {
+  font-size: large;
+}

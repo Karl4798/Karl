@@ -1,0 +1,90 @@
+SET SERVEROUTPUT ON;
+
+DECLARE EVENTNAME VARCHAR(50);
+        PRICE INT;
+        NO_OF_EVENTS INT;
+        NEW_RATE INT;
+
+BEGIN
+
+SELECT COUNT(EVENT_RATE) INTO NO_OF_EVENTS
+FROM EVENT
+WHERE EVENT_RATE > 250;
+
+WHILE NO_OF_EVENTS >= 1
+    
+LOOP
+    
+    SELECT EVENT_NAME INTO EVENTNAME
+    FROM(
+        SELECT EVENT_NAME, ROWNUM R
+        FROM(
+            SELECT EVENT_NAME
+            FROM EVENT
+            WHERE EVENT_RATE > 250
+            ORDER BY EVENT_ID DESC
+            )
+        )
+    WHERE R = NO_OF_EVENTS;
+    
+    SELECT (EVENT_RATE * 0.90) INTO PRICE
+    FROM(
+        SELECT EVENT_RATE, ROWNUM R
+        FROM(
+            SELECT EVENT_RATE
+            FROM EVENT
+            WHERE EVENT_RATE > 250
+            ORDER BY EVENT_ID DESC
+            )
+        )
+    WHERE R = NO_OF_EVENTS;
+    
+    DBMS_OUTPUT.PUT_LINE(CONCAT(CONCAT(EVENTNAME, ' price: R '), CAST(PRICE AS VARCHAR)));
+    DBMS_OUTPUT.PUT_LINE('---------------------------------------');
+    
+    NO_OF_EVENTS := NO_OF_EVENTS - 1;
+    
+END LOOP;
+
+
+
+SELECT COUNT(EVENT_RATE) INTO NO_OF_EVENTS
+FROM EVENT
+WHERE EVENT_RATE <= 250;
+
+WHILE NO_OF_EVENTS >= 1
+    
+LOOP
+    
+    SELECT EVENT_NAME INTO EVENTNAME
+    FROM(
+        SELECT EVENT_NAME, ROWNUM R
+        FROM(
+            SELECT EVENT_NAME
+            FROM EVENT
+            WHERE EVENT_RATE <= 250
+            ORDER BY EVENT_ID DESC
+            )
+        )
+    WHERE R = NO_OF_EVENTS;
+    
+    SELECT EVENT_RATE INTO PRICE
+    FROM(
+        SELECT EVENT_RATE, ROWNUM R
+        FROM(
+            SELECT EVENT_RATE
+            FROM EVENT
+            WHERE EVENT_RATE <= 250
+            ORDER BY EVENT_ID DESC
+            )
+        )
+    WHERE R = NO_OF_EVENTS;
+    
+    DBMS_OUTPUT.PUT_LINE(CONCAT(CONCAT(EVENTNAME, ' price: R '), CAST(PRICE AS VARCHAR)));
+    DBMS_OUTPUT.PUT_LINE('---------------------------------------');
+    
+    NO_OF_EVENTS := NO_OF_EVENTS - 1;
+    
+END LOOP;
+
+END;

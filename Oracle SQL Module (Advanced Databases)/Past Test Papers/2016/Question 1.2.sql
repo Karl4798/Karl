@@ -1,0 +1,4 @@
+SELECT C.COMPANYNAME, P.PRODUCT, S.QUANTITY
+FROM CUSTOMER C
+INNER JOIN SALES S ON c.customerid = s.customerid
+INNER JOIN PRODUCT P ON s.productid = p.productid;

@@ -1,0 +1,113 @@
+Project Title: One Direction
+
+Welcome to One Direction. An innovative maps application, with an even more innovative name. This maps application allows you to easily navigate to locations,
+through the use of searching for a landmark or address, or dropping a pin on the map.
+Your profile is synced with an online database, so you can sign in on any device and obtain access to your profile.
+Features include, but are not limited to, turn-by-turn navigation, trip history, selecting from a variety of different transport methods, and many more features.
+
+Getting Started
+The following steps are required to get One Direction application running in the development environment:
+•	Open the application source code in Android Studio
+•	Build the application
+•	Run the application to a phone or emulator on API level 23 or greater
+
+Prerequisites
+There are a few prerequisites required to run the application, including:
+•	Install the *latest Android Studio
+•	Set physical device to development mode (USB) or set up emulator environment.
+•	Ensure device is using Android API 23 or above
+*latest Android Studio as of when the application was developed is: Android Studio 4.0
+
+More detailed specifications are included below
+-----------------------------------------------------------------------------
+Build #AI-193.6911.18.40.6514223, built on May 20, 2020
+Runtime version: 1.8.0_242-release-1644-b01 amd64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+Windows 10 10.0
+GC: ParNew, ConcurrentMarkSweep
+Memory: 32716M
+Cores: 12
+Registry: ide.new.welcome.screen.force=true
+-----------------------------------------------------------------------------
+
+Installing
+•	Open the application source code in Android Studio
+•	Build the application
+•	Run the application to a phone or emulator on API level 23 or above
+*The development test system has been detailed on the following page.
+
+Test System
+Development PC
+---------------------------------------------------------------------------------------------------------------------------------------------------
+OS Name				Microsoft Windows 10 Pro
+Version				10.0.18363 Build 18363
+Other OS Description 		Not Available
+OS Manufacturer			Microsoft Corporation
+System Name			KARL
+System Manufacturer		System manufacturer
+System Model			System Product Name
+System Type			x64-based PC
+System SKU			SKU
+Processor			Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, 3696 Mhz, 6 Core(s), 12 Logical Processor(s)
+BIOS Version/Date		American Megatrends Inc. 2301, 2020/02/25
+SMBIOS Version			3.0
+Embedded Controller Version	255.255
+BIOS Mode			Legacy
+BaseBoard Manufacturer		ASUSTeK COMPUTER INC.
+BaseBoard Product		ROG MAXIMUS X HERO
+BaseBoard Version		Rev 1.xx
+Platform Role			Desktop
+Secure Boot State		Unsupported
+PCR7 Configuration		Binding Not Possible
+Windows Directory		C:\WINDOWS
+System Directory		C:\WINDOWS\system32
+Boot Device			\Device\HarddiskVolume5
+Locale				South Africa
+Hardware Abstraction Layer	Version = "10.0.18362.752"
+User Name			KARL\Karl
+Time Zone			South Africa Standard Time
+Installed Physical Memory (RAM)	48,0 GB
+Total Physical Memory		47,9 GB
+Available Physical Memory	32,7 GB
+Total Virtual Memory		54,9 GB
+Available Virtual Memory	35,4 GB
+Page File Space			7,00 GB
+Page File			C:\pagefile.sys
+Kernel DMA Protection		Off
+Virtualization-based security	Not enabled
+
+Hyper-V - VM Monitor Mode Extensions			Yes
+Hyper-V - Second Level Address Translation Extensions	Yes
+Hyper-V - Virtualization Enabled in Firmware		Yes
+Hyper-V - Data Execution Protection			Yes
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Development Phone: 		Samsung Galaxy S8
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Android Version			9
+API Level			28
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Built With
+Android Studio – The IDE used to develop the application
+Maven – Dependency management
+Gradle – Automation and management of the build process
+MapBox – Maps integration (SDK)
+
+Versioning
+-------------------------------------------
+Version Code		30
+Version Name		1.30
+-------------------------------------------
+
+Authors
+Karl Dicks – 17667327
+
+Acknowledgments
+Inspiration: 	One Direction
+Website: 	http://www.onedirectionmusic.com/
+
+Deployment
+Documentation will be included in the final POE, as marks have been allocated to this section for the POE, and not Task 2.
+
+Demo
+Video link: https://youtu.be/1bB2kAicRQo

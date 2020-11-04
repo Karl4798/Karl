@@ -1,0 +1,18 @@
+<h1>Government Departments</h1>
+
+<mat-accordion *ngIf="departments.length > 0">
+  <mat-expansion-panel *ngFor="let department of departments">
+    <mat-expansion-panel-header style="color: #00263b; font-size: x-large; text-decoration: solid;">
+      Department: {{department.Name}}
+    </mat-expansion-panel-header>
+
+        <p>Department ID: {{department.id}} </p>
+
+      <mat-action-row *ngIf="userisAuthenticated">
+        <button mat-button color="primary" [routerLink]="['/editdepartment/', department.id]">Edit</button>
+        <button mat-button color="warn" (click)="onDelete(department.id)">Delete</button>
+      </mat-action-row>
+
+  </mat-expansion-panel>
+</mat-accordion>
+<p *ngIf="departments.length <= 0" style="text-align: center;">No departments created yet</p>

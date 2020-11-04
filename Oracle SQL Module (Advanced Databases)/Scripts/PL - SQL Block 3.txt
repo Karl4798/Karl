@@ -1,0 +1,48 @@
+-- each block has 3 elements to it
+-- 1. declaration portion
+-- 2. execution portion
+-- 3. exception handling
+-- to assign values to variables :=
+-- set the serveroutput to on
+-- Block 2
+-- diff between inner and outer variables
+
+-- Block 3
+-- mixing up tables with variables
+-- first create a table
+CREATE TABLE AGENTS(
+ID INT NOT NULL,
+NAME VARCHAR(20) NOT NULL,
+AGE INT NOT NULL,
+ADDRESS CHAR(25),
+SALARY DECIMAL(6, 2),
+PRIMARY KEY(ID)
+);
+
+INSERT INTO AGENTS (ID, NAME, AGE, ADDRESS, SALARY)
+VALUES(1, 'Spider Man', 32, 'New York', 4500.00);
+INSERT INTO AGENTS (ID, NAME, AGE, ADDRESS, SALARY)
+VALUES(2, 'Bat man', 38, 'Gotham', 7500.00);
+INSERT INTO AGENTS (ID, NAME, AGE, ADDRESS, SALARY)
+VALUES(3, 'Joker', 27, 'Neverland', 1234.00);
+
+SELECT * FROM AGENTS;
+
+-- Block 3
+
+DECLARE
+
+--Variable as an anchor variable
+A_ID agents.id%type := 1;
+A_Name agents.name%type;
+A_Address agents.address%type;
+
+BEGIN
+
+SELECT name, address INTO A_Name, a_Address
+FROM agents
+WHERE ID = a_id;
+
+dbms_output.put_line('Agent ' || A_Name || ' from ' || A_Address);
+
+END;

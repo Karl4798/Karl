@@ -1,0 +1,13 @@
+INSERT INTO EVENT VALUES ('1001', 'Open Air Comedy Festival', 300);
+INSERT INTO EVENT VALUES ('1002', 'Mountain Side Music Festival', 280);
+INSERT INTO EVENT VALUES ('1003', 'Beach Music Festival', 195);
+
+INSERT INTO ARTIST VALUES ('A_101', 'Max Trillion', 'maxt@isat.com');
+INSERT INTO ARTIST VALUES ('A_102', 'Music Mayhem', 'mayhem@ymail.com');
+INSERT INTO ARTIST VALUES ('A_103', 'LOL Man', 'lol@isat.com');
+
+INSERT INTO BOOKINGS VALUES (1, '15 July 2017', '1002', 'A_101');
+INSERT INTO BOOKINGS VALUES (2, '15 July 2017', '1002', 'A_102');
+INSERT INTO BOOKINGS VALUES (3, '27 August 2017', '1001', 'A_103');
+INSERT INTO BOOKINGS VALUES (4, '30 August 2017', '1003', 'A_101');
+INSERT INTO BOOKINGS VALUES (5, '30 August 2017', '1003', 'A_102');

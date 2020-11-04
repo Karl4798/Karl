@@ -1,0 +1,53 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<mat-toolbar style="height: 55px;">
+  <ul>
+    <li style="padding-right: 2rem;">
+      <button mat-raised-button [routerLink]="['/']">
+        <mat-icon>home</mat-icon>
+        <span class="button-title">Home</span>
+      </button>
+    </li>
+  <div>
+    <li class="nav-item dropdown" *ngIf="userIsAuthenticated">
+      <a class="nav-link menu-item dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Posts</a>      
+      <div class=" dropdown dropdown-menu">
+          <a class="dropdown-item menu-item" [routerLink]="['/posts']">List Posts</a>
+          <a class="dropdown-item menu-item" [routerLink]="['/create']">New Post</a>
+      </div>
+    </li>
+  </div>
+  <div style="padding-left: 2rem;">
+    <li class="nav-item dropdown" *ngIf="userIsAuthenticated">
+      <a class="nav-link menu-item dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Departments</a>      
+      <div class=" dropdown dropdown-menu">
+          <a class="dropdown-item menu-item" [routerLink]="['/departments']">List Departments</a>
+          <a class="dropdown-item menu-item" [routerLink]="['/createdepartment']">New Department</a>
+      </div>
+    </li>
+  </div>
+  </ul>
+  <span class="spacer"></span>
+  <ul>
+    <li *ngIf="!userIsAuthenticated" style="padding-right: 2rem;">
+      <button mat-raised-button [routerLink]="['/login']">
+        <span class="button-title">Login</span>
+        <mat-icon>lock_open</mat-icon>
+      </button>
+    </li>
+    <li *ngIf="!userIsAuthenticated">
+      <button mat-raised-button [routerLink]="['/signup']">
+        <span class="button-title">Register</span>
+        <mat-icon>person_add</mat-icon>
+      </button>
+    </li>
+    <li *ngIf="userIsAuthenticated">
+      <h3 ng-bind-html style="font-size: large; padding-right: 2.5rem;">{{userName}}</h3>
+    </li>
+    <li *ngIf="userIsAuthenticated">
+      <button mat-raised-button (click)="onLogout()">
+        <span class="button-title">Logout</span>
+        <mat-icon>lock</mat-icon>
+      </button>
+    </li>
+  </ul>
+</mat-toolbar>

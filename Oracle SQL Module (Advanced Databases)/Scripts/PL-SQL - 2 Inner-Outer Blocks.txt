@@ -1,0 +1,32 @@
+-- each block has 3 elements to it
+-- 1. declaration portion
+-- 2. execution portion
+-- 3. exception handling
+-- to assign values to variables :=
+-- set the serveroutput to on
+-- Block 2
+-- diff between inner and outer variables
+
+SET SERVEROUTPUT ON;
+
+DECLARE
+-- Global variables
+val1 number := 900;
+val2 number := 1800;
+
+BEGIN
+-- output
+dbms_output.put_line('Outer variables one: ' || val1);
+dbms_output.put_line('Outer variable two: ' || val2);
+DECLARE
+--Local variables
+val3 number := 245;
+val4 number := 500;
+
+BEGIN
+-- output
+dbms_output.put_line('Inner variables one: ' || val3);
+dbms_output.put_line('Inner variable two: ' || val4);
+
+END;
+END;

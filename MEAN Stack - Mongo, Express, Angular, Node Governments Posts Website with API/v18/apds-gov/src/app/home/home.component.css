@@ -1,0 +1,21 @@
+img {
+  max-width: 70%;
+  max-height: 70%;
+  margin-top: -5%;
+}
+
+h1 {
+  margin-top: 2%;
+  margin-bottom: 1%;
+  color: #00263b;
+}
+
+h4 {
+  margin-bottom: 1%;
+  color: #00263b;
+}
+
+p {
+  margin: 0%;
+  text-align: center;
+}
