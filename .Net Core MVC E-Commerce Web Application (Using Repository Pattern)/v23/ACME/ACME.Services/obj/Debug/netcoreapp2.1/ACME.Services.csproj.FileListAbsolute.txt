@@ -1,0 +1,93 @@
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.deps.json
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.json
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.runtimeconfig.dev.json
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.dll
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\bin\Debug\netcoreapp2.1\ACME.Services.pdb
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csprojAssemblyReference.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfoInputs.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.AssemblyInfo.cs
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.csproj.CoreCompileInputs.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.dll
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.pdb
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.Services\obj\Debug\netcoreapp2.1\ACME.Services.genruntimeconfig.cache

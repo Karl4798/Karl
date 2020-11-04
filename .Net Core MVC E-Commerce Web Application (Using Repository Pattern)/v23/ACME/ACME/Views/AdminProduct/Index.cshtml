@@ -1,0 +1,69 @@
+﻿@model ACME.Data.ViewModels.ProductListViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Manage Products</h2>
+
+<br>
+
+<p>
+    <a asp-action="Create" class="btn btn-default">Create New Product</a>
+</p>
+
+<br>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                Product Name
+            </th>
+            <th>
+                Short Description
+            </th>
+            <th>
+                Category
+            </th>
+            <th>
+                Price
+            </th>
+            <th>
+                Image
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model.Products)
+        {
+            <tr>
+                <td>
+                    @p.Name
+                </td>
+                <td>
+                    @p.ShortDescription
+                </td>
+                <td>
+                    @Model.Categories.Single(c => c.Id == p.CategoryId).Name
+                </td>
+                <td>
+                    <p style="white-space: nowrap;">R @p.Price</p>
+                </td>
+                <td>
+                    <center>
+                        <img src="~/Images/@p.ImageUrl" style="max-height: 150px; max-width: 150px;" />
+                    </center>
+                </td>
+
+                <td style="width: 100px">
+                    <a asp-action="Details" asp-route-id="@p.Id">Details</a><br><br>
+                    <a asp-action="Edit" asp-route-id="@p.Id">Edit</a><br><br>
+                    <a asp-action="Delete" asp-route-id="@p.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

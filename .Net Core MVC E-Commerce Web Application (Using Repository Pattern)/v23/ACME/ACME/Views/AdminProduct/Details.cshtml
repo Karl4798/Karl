@@ -1,0 +1,89 @@
+﻿@model ACME.Data.ViewModels.ProductEditViewModel
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var photoPath = "~/Images/" + (Model.ImageUrl);
+}
+
+<h2>Details</h2>
+
+<hidden>@Model.CategoryId</hidden>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            <p>@Model.Name</p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ShortDescription)
+        </dt>
+        <dd>
+            <p>@Model.ShortDescription</p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CategoryName)
+        </dt>
+        <dd>
+            <p>@Model.CategoryName</p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Price)
+        </dt>
+        <dd>
+            <p>R @Model.Price</p>
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.IsPreferredProduct)
+        </dt>
+        <dd>
+            @{
+                if (Model.IsPreferredProduct)
+                {
+                    <p>Yes</p>
+                }
+                else
+                {
+                    <p>No</p>
+                }
+            }
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.InStock)
+        </dt>
+        <dd>
+            @{
+                if (Model.InStock)
+                {
+                    <p>Yes</p>
+                }
+                else
+                {
+                    <p>No</p>
+                }
+            }
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.ImageUrl)
+        </dt>
+        <dd>
+            <img src="@photoPath" asp-append-version="true" style="max-width: 360px; max-height: 360px;" />
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.LongDescription)
+        </dt>
+        <dd>
+            <p class="multi-line">@Model.LongDescription</p>
+        </dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

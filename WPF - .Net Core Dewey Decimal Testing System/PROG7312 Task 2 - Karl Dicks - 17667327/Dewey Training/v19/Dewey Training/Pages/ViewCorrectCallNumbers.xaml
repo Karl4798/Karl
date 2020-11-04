@@ -1,0 +1,15 @@
+﻿<Page x:Class="Dewey_Training.Pages.ViewCorrectCallNumbers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Dewey_Training.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="707" d:DesignWidth="1050"
+      Title="ViewCorrectCallNumbers">
+
+    <Grid>
+        <Label x:Name="finished" Content="To be implemented for POE task" Foreground="White" FontFamily="Rockwell" FontSize="35" HorizontalContentAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Center" Height="55" Width="1030"/>
+
+    </Grid>
+</Page>

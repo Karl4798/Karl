@@ -1,0 +1,39 @@
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.xml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Permissions.xml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.xml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.AccessControl.xml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.xml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.deps.json
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.xml
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Permissions.xml
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Windows.Extensions.xml
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.AccessControl.xml
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.xml
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v1\Dewey Training DAL\obj\Debug\netcoreapp3.1\Dewey Training DAL.pdb

@@ -1,0 +1,53 @@
+﻿@model Product
+
+@{
+    var photoPath = "/Images/" + (Model.ImageUrl);
+}
+
+<div class="container marginTop">
+    <div class="row">
+        <div class="card">
+            <div class="text-center view overlay hm-white-slight">
+                <img src="@photoPath" class="img-fluid" style="padding-top: 45px; min-height: 150px; min-width:150px; max-height: 500px; max-width: 500px;" alt="">
+                <a href="#">
+                    <div class="mask waves-effect waves-light"></div>
+                </a>
+            </div>
+            <div class="card-block">
+                <br>
+                <!--Title-->
+                <h3 class="card-title">@Model.Name</h3>
+                <!--Text-->
+                <p class="card-text">@Model.ShortDescription.</p>
+                <h3 class="card-title">Price</h3>
+                <p class="card-text">R @Model.Price</p>
+                @if (Model.InStock)
+                {
+                    <h3>Stock status</h3>
+                    <p>In stock</p>
+                }
+                else
+                {
+                    <h3>Stock status</h3>
+                    <p>Out of stock</p>
+                }
+                <hr style="border-color:black; border-width: thin;">
+                <h3>Description</h3>
+                <p class="multi-line">@Model.LongDescription.</p>
+                <hr style="border-color:black; border-width: thin;">
+
+                <p class="btn btn-group pull-right">
+                    <a asp-controller="Product" asp-action="List" class="btn btn-default">Show All Products</a>
+
+                    @if (!User.IsInRole("Admin") && Model.InStock)
+                    {
+                        <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-productId="@Model.Id">
+                            Add @Model.Name to cart
+                        </a>
+                    }
+
+                </p>
+            </div>
+        </div>
+    </div>
+</div>

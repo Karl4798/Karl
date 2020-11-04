@@ -1,0 +1,20 @@
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+C:\Users\47028\source\repos\Chapter02\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\Karl\Desktop\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\Karl\Desktop\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\Karl\Desktop\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+C:\Users\Karl\Desktop\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\Karl\Desktop\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\obj\Debug\SortingAlgorithms.csprojAssemblyReference.cache
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+I:\VC\PROG 3B\ICE Tasks\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb

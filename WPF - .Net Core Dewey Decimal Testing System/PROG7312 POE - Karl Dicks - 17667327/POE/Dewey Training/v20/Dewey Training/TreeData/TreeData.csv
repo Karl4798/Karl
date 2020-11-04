@@ -1,0 +1,260 @@
+!-000$^Computer science, information & general works
+@--000$^Computer science, knowledge & systems
+#---001$^Knowledge
+#---003$^Systems
+#---004$^Data processing & computer science
+#---005$^Computer programming, programs & data
+<>
+@--010$^Bibliographies
+#---012$^Bibliographies of individuals
+#---015$^Bibliographies of works from specific places
+#---017$^General subject catalogs
+#---019$^Dictionary catalogs
+<>
+@--020$^Library & information sciences
+#---023$^Personnel management
+#---025$^Library operations
+#---026$^Libraries for specific subjects
+#---028$^Reading & use of other information media
+<>
+@--030$^Encyclopedias & books of facts
+#---031$^Encyclopedias in American English
+#---032$^Encyclopedias in English
+#---034$^Encyclopedias in French, Occitan, and Catalan
+#---035$^Encyclopedias in Italian, Romanian, and related languages
+<>
+<>
+!-100$^Philosophy & psychology
+@--100$^Philosophy
+#---101$^Theory of philosophy
+#---103$^Dictionaries & encyclopedias
+#---107$^Education, research, related topics of philosophy
+#---109$^History & collected biography
+<>
+@--110$^Metaphysics
+#---111$^Ontology
+#---113$^Cosmology (Philosophy of nature)
+#---117$^Structure
+#---118$^Force and energy
+<>
+@--140$^Philosophical schools of thought
+#---141$^Idealism & related systems & doctrines
+#---142$^Critical philosophy
+#---143$^Bergsonism & intuitionism
+#---145$^Sensationalism
+<>
+@--170$^Ethics
+#---171$^Ethical systems
+#---172$^Political ethics
+#---173$^Ethics of family relationships
+#---174$^Occupational ethics
+<>
+<>
+!-200$^Religion
+@--210$^Philosophy & theory of religion
+#---211$^Concepts of God
+#---212$^Existence, ways of knowing God, attributes of God
+#---214$^Theodicy
+#---215$^Science & religion
+<>
+@--220$^The Bible
+#---222$^Historical books of Old Testament
+#---223$^Poetic books of Old Testament
+#---224$^Prophetic books of Old Testament
+#---225$^New Testament
+<>
+@--260$^Social & ecclesiastical theology
+#---261$^Social theology and interreligious relations and attitudes
+#---262$^Ecclesiology
+#---263$^Days, times, places of religious observance
+#---264$^Public worship
+<>
+@--290$^Other religions
+#---292$^Classical religion (Greek & Roman religion)
+#---293$^Germanic religion
+#---294$^Religions of Indic origin
+#---295$^Zoroastrianism (Mazdaism, Parseeism)
+<>
+<>
+!-300$^Social sciences
+@--310$^Statistics
+#---314$^General statistics of Europe
+#---315$^General statistics of Asia
+#---316$^General statistics of Africa
+#---317$^General statistics of North America
+<>
+@--330$^Economics
+#---331$^Labor economics
+#---332$^Financial economics
+#---333$^Economics of land & energy
+#---337$^International economics
+<>
+@--370$^Education
+#---372$^Primary education (elementary education)
+#---373$^Secondary education
+#---378$^Higher education (Tertiary education)
+#---379$^Public policy issues in education
+<>
+@--380$^Commerce, communications, & transportation
+#---381$^Commerce (Trade)
+#---382$^International commerce (Foreign trade)
+#---383$^Postal communication
+#---384$^Communications
+<>
+<>
+!-400$^Language
+@--410$^Linguistics
+#---411$^Writing systems of standard forms of languages
+#---412$^Etymology of standard forms of languages
+#---413$^Dictionaries of standard forms of languages
+#---414$^Phonology & phonetics of standard forms of languages
+<>
+@--420$^English & Old English languages
+#---421$^Writing system, phonology, phonetics of standard English
+#---422$^Etymology of standard English
+#---423$^Dictionaries of standard English
+#---425$^Grammar of standard English
+<>
+@--440$^French & related languages
+#---441$^Writing systems, phonology, phonetics of standard French
+#---442$^Etymology of standard French
+#---443$^Dictionaries of standard French
+#---445$^Grammar of standard French
+<>
+@--470$^Latin & Italic languages
+#---471$^Writing systems, phonology, phonetics of classical Latin
+#---472$^Etymology of classical Latin
+#---473$^Dictionaries of classical Latin
+#---475$^Grammar of classical Latin
+<>
+<>
+!-500$^Science
+@--510$^Mathematics
+#---511$^General principles of mathematics
+#---512$^Algebra
+#---513$^Arithmetic
+#---514$^Topology
+<>
+@--520$^Astronomy
+#---521$^Celestial mechanics
+#---522$^Techniques, procedures, apparatus, equipment, materials
+#---523$^Specific celestial bodies & phenomena
+#---525$^Earth (Astronomical geography)
+<>
+@--540$^Chemistry
+#---541$^Physical chemistry
+#---542$^Techniques, procedures, apparatus, equipment, materials
+#---543$^Analytical chemistry
+#---547$^Organic chemistry
+<>
+@--570$^Biology
+#---572$^Biochemistry
+#---575$^Specific parts of & physiological systems in plants
+#---576$^Genetics and evolution
+#---577$^Ecology
+<>
+<>
+!-600$^Technology
+@--610$^Medicine & health
+#---611$^Human anatomy, cytology, histology
+#---612$^Human physiology
+#---613$^Personal health & safety
+#---615$^Pharmacology and therapeutics
+<>
+@--620$^Engineering
+#---621$^Applied physics
+#---622$^Mining & related operations
+#---623$^Military & nautical engineering
+#---624$^Civil engineering
+<>
+@--630$^Agriculture
+#---632$^Plant injuries, diseases, pests
+#---633$^Field & plantation crops
+#---634$^Orchards, fruits, forestry
+#---635$^Garden crops (Horticulture)
+<>
+@--640$^Home & family management
+#---641$^Food & drink
+#---642$^Meals & table service
+#---643$^Housing & household equipment
+#---644$^Household utilities
+<>
+<>
+!-700$^Arts & recreation
+@--720$^Architecture
+#---721$^Architectural materials & structural elements
+#---725$^Public structures
+#---727$^Buildings for educational & research purposes
+#---728$^Residential & related buildings
+<>
+@--750$^Painting
+#---751$^Techniques, procedures, apparatus, equipment, materials, forms
+#---752$^Color
+#---753$^Symbolism, allegory, mythology, legend
+#---754$^Genre paintings
+<>
+@--770$^ography, computer art, film, video
+#---771$^Techniques, procedures, apparatus, equipment, materials
+#---772$^Metallic salt processes
+#---773$^Pigment processes of printing
+#---776$^Computer art (Digital art)
+<>
+@--780$^Music
+#---781$^General principles & musical forms
+#---782$^Vocal music
+#---783$^Music for single voices
+#---784$^Instruments & Instrumental ensembles & their music
+<>
+<>
+!-800$^Literature
+@--810$^American literature in English
+#---811$^American poetry in English
+#---812$^American drama in English
+#---813$^American fiction in English
+#---814$^American essays in English
+<>
+@--820$^English & Old English literatures
+#---821$^English Poetry
+#---822$^English drama
+#---823$^English fiction
+#---824$^English essays
+<>
+@--840$^French & related literatures
+#---841$^French poetry
+#---842$^French drama
+#---843$^French fiction
+#---844$^French essays
+<>
+@--890$^Other literatures
+#---891$^East Indo-European & Celtic literatures
+#---892$^Afro-Asiatic literatures
+#---897$^Literatures of North American native languages
+#---898$^Literatures of South American native languages
+<>
+<>
+!-900$^History & geography
+@--910$^Geography & travel
+#---911$^Historical geography
+#---913$^Geography of & travel in ancient world
+#---914$^Geography of & travel in Europe
+#---917$^Geography of & travel in North America
+<>
+@--940$^History of Europe
+#---942$^England & Wales
+#---943$^Germany & neighboring central European countries
+#---944$^France & Monaco
+#---945$^Italy, San Marino, Vatican City, Malta
+<>
+@--950$^History of Asia
+#---951$^China & adjacent areas
+#---952$^Japan
+#---953$^Arabian Peninsula & adjacent areas
+#---954$^India & neighboring south Asian countries
+<>
+@--970$^History of North America
+#---971$^Canada
+#---972$^Mexico, Central America, West Indies, Bermuda
+#---973$^United States
+#---976$^South central United States
+<>
+<>

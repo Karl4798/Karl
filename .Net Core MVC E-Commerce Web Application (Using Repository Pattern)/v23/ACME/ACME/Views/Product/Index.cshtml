@@ -1,0 +1,49 @@
+﻿@model ACME.Data.ViewModels.ProductListViewModel;
+@using ReflectionIT.Mvc.Paging
+@addTagHelper *, ReflectionIT.Mvc.Paging
+
+<h2 style="margin-left: 15px;">@Model.CurrentCategory</h2>
+
+<div class="form-group">
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-5 text-justify">
+                <label class="customlabel" style="margin-top: 5px;">Total Products: @Model.Count.ToString()</label>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="form-group">
+    <div class="col-md-8">
+        <div class="row">
+            @using (Html.BeginRouteForm("ProductIndex", FormMethod.Get))
+            {
+                <div class="col-md-2 text-justify">
+                    <label class="customlabel" style="margin-top: 5px;">Sort by:</label>
+                </div>
+                <div class="col-md-4">
+                    @Html.DropDownListFor(plvm => plvm.SortBy, new SelectList(Model.Sorts, "Value", "Key"), "Default", new { @class = "form-control" })
+                </div>
+                <div class="col-md-1">
+                    <input class="btn btn-default" type="submit" value="Filter" />
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+<br><br><br><br><br>
+
+@{
+
+    <nav style="margin-left: 15px;">
+        @await this.Component.InvokeAsync("Pager", new { pagingList = this.Model.PagingProducts })
+        <br>
+    </nav>
+
+    foreach (Product product in Model.PagingProducts)
+    {
+        @Html.Partial("ProductsSummary", product)
+    }
+}

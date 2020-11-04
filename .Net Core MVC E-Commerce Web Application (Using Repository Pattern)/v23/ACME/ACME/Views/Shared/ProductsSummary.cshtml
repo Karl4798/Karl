@@ -1,0 +1,49 @@
+﻿@model Product
+
+@{
+    var photoPath = "/Images/" + (Model.ImageUrl);
+}
+
+
+<div class="col-sm-3 col-lg-3 col-md-3" style="margin-left: -0.15%;">
+
+    @if (!User.IsInRole("Admin"))
+    {
+        <div class="thumbnail" style="min-height: 350px; min-width:350px; max-height:350px; max-width:350px; border-radius: 15px; border-color: darkgrey;">
+            <a asp-controller="Product" asp-action="Details" asp-route-productId="@Model.Id">
+                <img src="@photoPath" alt="" class="thumbnailImg" />
+                <div class="caption">
+                    <h4 class="pull-right">@Model.Price.ToString("c")</h4>
+                    <h4 style="padding-right: 5px;">
+                        @Model.Name
+                    </h4>
+                    <p style="position:inherit; padding-bottom:25px; word-break: break-word;">@Model.ShortDescription</p>
+                </div>
+            </a>
+                <div class="addToCart text-right">
+                    <p class="button" style=" position:absolute; right: 12px; bottom:20px;">
+                        <a class="btn btn-success" id="cartButton" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-productId="@Model.Id">
+                            Add to cart
+                        </a>
+                    </p>
+                </div>
+        </div>
+    }
+    else
+    {
+        <div class="thumbnail" style="min-height: 320px; min-width:350px; max-height:320px; max-width:350px; border-radius: 15px; border-color: darkgray;">
+            <a asp-controller="Product" asp-action="Details" asp-route-productId="@Model.Id">
+                <img src="@photoPath" alt="" class="thumbnailImg" />
+                <div class="caption">
+                    <h4 class="pull-right">@Model.Price.ToString("c")</h4>
+                    <h4>
+                        @Model.Name
+                    </h4>
+                    <p style="position:inherit; padding-bottom:25px; word-break: break-word;">@Model.ShortDescription</p>
+                </div>
+            </a>
+        </div>
+    }
+
+</div>
+    

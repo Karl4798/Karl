@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $.ajax({
+                type: "GET",
+                dataType: "json",
+                contentType: "application/json",
+                url: '@Url.Action("VisualizeSales", "AdminProduct")',
+                success: function (result) {
+                    google.charts.load('current', {
+                        'packages': ['corechart']
+                    });
+                    google.charts.setOnLoadCallback(function () {
+                        drawChart(result);
+                    });
+                }
+            });
+
+            function drawChart(result) {
+                var data = new google.visualization.DataTable();
+                data.addColumn('string', 'Category');
+                data.addColumn('number', 'Sales');
+                var dataArray = [];
+
+                $.each(result, function (i, obj) {
+                    dataArray.push([obj.categoryName, obj.sales]);
+                });
+                data.addRows(dataArray);
+
+                var columnChartOptions = {
+                    title: "Sales Performance",
+                    width: 1250,
+                    height: 500,
+                    bar: { groupWidth: "20%" },
+                };
+
+                var lineChart = new google.visualization.LineChart(document
+                    .getElementById('linechart_div'));
+
+                lineChart.draw(data, columnChartOptions);
+            }
+
+        });
+        
+    </script>
+</head>
+
+<body>
+    <h1>Sales Performance by Category</h1>
+    <div id="linechart_div"></div>
+    <h4>Please see above chart for cumulative sales figures for each category.</h4>
+</body>
+</html>
+

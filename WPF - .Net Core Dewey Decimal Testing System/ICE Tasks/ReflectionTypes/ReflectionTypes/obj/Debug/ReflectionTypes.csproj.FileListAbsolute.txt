@@ -1,0 +1,10 @@
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\bin\Debug\ReflectionTypes.exe.config
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\bin\Debug\ReflectionTypes.exe
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\bin\Debug\ReflectionTypes.pdb
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.Form1.resources
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.Properties.Resources.resources
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.csproj.GenerateResource.cache
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.exe
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.pdb
+C:\Users\Karl\source\repos\ReflectionTypes\ReflectionTypes\obj\Debug\ReflectionTypes.csprojAssemblyReference.cache

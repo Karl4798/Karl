@@ -1,0 +1,6 @@
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\obj\Debug\netcoreapp3.1\ACME.Data.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\obj\Debug\netcoreapp3.1\ACME.Data.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\obj\Debug\netcoreapp3.1\ACME.Data.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\bin\Debug\netcoreapp3.1\ACME.Data.deps.json
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\bin\Debug\netcoreapp3.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\v19\ACME\ACME.Data\obj\Debug\netcoreapp3.1\ACME.Data.csprojAssemblyReference.cache

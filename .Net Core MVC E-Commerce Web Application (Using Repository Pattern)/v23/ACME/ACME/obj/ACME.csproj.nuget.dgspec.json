@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME\\ACME.csproj": {}
+  },
+  "projects": {
+    "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj",
+        "projectName": "ACME.Data",
+        "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj",
+        "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
+        "outputPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "ReflectionIT.Mvc.Paging": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\ACME.OrderFacade.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\ACME.OrderFacade.csproj",
+        "projectName": "ACME.OrderFacade",
+        "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\ACME.OrderFacade.csproj",
+        "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
+        "outputPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj": {
+                "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\ACME.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\ACME.Services.csproj",
+        "projectName": "ACME.Services",
+        "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\ACME.Services.csproj",
+        "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
+        "outputPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME\\ACME.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME\\ACME.csproj",
+        "projectName": "ACME",
+        "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME\\ACME.csproj",
+        "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
+        "outputPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj": {
+                "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Data\\ACME.Data.csproj"
+              },
+              "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\ACME.OrderFacade.csproj": {
+                "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.OrderFacade\\ACME.OrderFacade.csproj"
+              },
+              "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\ACME.Services.csproj": {
+                "projectPath": "I:\\VC\\Backup\\BCAD\\Year 3\\Semester 1\\PROG3A\\Task 2\\PROG7311 Task 2 - Karl Dicks - 17667327\\v23\\ACME\\ACME.Services\\ACME.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "ReflectionIT.Mvc.Paging": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "bootstrap": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

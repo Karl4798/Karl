@@ -1,0 +1,25 @@
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.exe
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.deps.json
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.runtimeconfig.json
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.dll
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\bin\Debug\netcoreapp3.1\Dewey Train.pdb
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train_MarkupCompile.cache
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train_MarkupCompile.lref
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.g.resources
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.AssemblyInfo.cs
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.dll
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.pdb
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Dewey Train.genruntimeconfig.cache
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+C:\Users\Karl\source\repos\Dewey Train\Dewey Train\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs

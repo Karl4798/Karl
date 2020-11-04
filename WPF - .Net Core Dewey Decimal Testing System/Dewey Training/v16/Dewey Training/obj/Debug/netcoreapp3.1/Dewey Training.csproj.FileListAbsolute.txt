@@ -1,0 +1,927 @@
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+C:\Users\Karl\source\repos\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll.config
+I:\VC\PROG 3B\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v2\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v3\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v4\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v5\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\PROG7312 Task 1 - Karl Dicks - 17667327\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v7\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Complete.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v8\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v9\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v10\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v11\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v12\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v13\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.g.cs
+I:\VC\PROG 3B\Dewey Training\v14\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewAllScores.g.cs
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewAllScores.baml
+I:\VC\PROG 3B\Dewey Training\v15\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.exe
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.deps.json
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.json
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.runtimeconfig.dev.json
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\bin\Debug\netcoreapp3.1\Dewey Training DAL.pdb
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewAllScores.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\App.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.cache
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training_MarkupCompile.lref
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\App.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\CustomDialogs\CustomMessageBox.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\MainWindow.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyAreas.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\IdentifyComplete.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Login.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\MenuPage.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\Register.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReorderComplete.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ReplaceBooks.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewAllScores.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectAreas.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Pages\ViewCorrectOrder.baml
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.g.resources
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfoInputs.cache
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.AssemblyInfo.cs
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CoreCompileInputs.cache
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csproj.CopyComplete
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.dll
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.pdb
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.genruntimeconfig.cache
+I:\VC\PROG 3B\Dewey Training\v16\Dewey Training\obj\Debug\netcoreapp3.1\Dewey Training.csprojAssemblyReference.cache

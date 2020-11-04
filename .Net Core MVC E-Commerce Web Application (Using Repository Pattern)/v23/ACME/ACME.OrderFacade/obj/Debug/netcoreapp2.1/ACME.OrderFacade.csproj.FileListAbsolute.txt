@@ -1,0 +1,84 @@
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v20\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v21\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v22\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+G:\VC\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.deps.json
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.dll
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\bin\Debug\netcoreapp2.1\ACME.Data.pdb
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csprojAssemblyReference.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfoInputs.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.AssemblyInfo.cs
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CoreCompileInputs.cache
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.csproj.CopyComplete
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.dll
+I:\VC\Backup\BCAD\Year 3\Semester 1\PROG3A\Task 2\PROG7311 Task 2 - Karl Dicks - 17667327\v23\ACME\ACME.OrderFacade\obj\Debug\netcoreapp2.1\ACME.OrderFacade.pdb
